@@ -53,7 +53,7 @@ const fetchDataC = () => {
 
 try/catch 的确可以来解决错误异常的处理，但是让代码非常的不干净，原本 async/await 的优势就是让代码更佳的简约，这样一来又违背了它的初衷
 
-## Go-lang 的错误处理
+## Go-lang 的灵感
 
  Go 语言中处理异常的方式：
 
