@@ -49,7 +49,7 @@ class EventEmitter {
 
 ## 测试
 
-### 测试过层
+### 测试过程
 
 ```js
 const EventEmitter = require('./index');
