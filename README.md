@@ -6,3 +6,4 @@
 
 * [发布订阅方法](/发布订阅方法/README.md)
 * [优雅的Async/Await错误处理](/优雅的Async.Await错误处理/README.md)
+* [写一个instanceof方法](/写一个instanceof方法/README.md)
